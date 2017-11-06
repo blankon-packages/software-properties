@@ -1,3 +1,9 @@
+software-properties (0.96.20.2-1blankon2) uluwatu; urgency=medium
+
+  * Upload to uluwatu
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Mon, 06 Nov 2017 12:48:30 +0800
+
 software-properties (0.96.20.2-1blankon1) tambora; urgency=medium
 
   * Drop software-properties-gnome.desktop 
